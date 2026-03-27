@@ -1,0 +1,8 @@
+{
+  "name": "NoiseMap - Urban Sonic Intelligence",
+  "description": "A sophisticated urban noise monitoring and predictive analysis platform using real-time data and AI-driven insights.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
